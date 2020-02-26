@@ -30,10 +30,3 @@ public class Props {
 	}
 
 }
-
-
-/*final static String sourceBucket = "s3compressed";
-final static String destinationBucket = "runquicksight";
-final static String accessKey = "AKIAJP6OKENZDY5OUJKA";
-final static String secretKey = "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";
-final static String fileName = "cleanData.csv";*/
