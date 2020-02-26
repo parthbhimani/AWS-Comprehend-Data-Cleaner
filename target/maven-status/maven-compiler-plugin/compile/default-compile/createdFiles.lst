@@ -1,0 +1,4 @@
+dataCleanerS3\parser\TarParser.class
+properties\Props.class
+dataCleanerS3\parser\LineParser.class
+dataCleanerS3\Start.class
